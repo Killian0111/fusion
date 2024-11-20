@@ -1,2 +1,2 @@
-# fusion
-dépot fusion
+LOCAL
+
